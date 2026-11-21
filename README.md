@@ -68,7 +68,7 @@ The mobile layout adapts the desktop design by stacking content vertically, resi
 
 ## 🔗 Project Links
 
-* **Figma Design:** [Add your Figma link here]
+* **Figma Design:** https://github.com/shahitanishq/PitchIQ-Landing-Page-UIUX?utm_source=chatgpt.com
 
 ## 📚 Learning Outcomes
 
